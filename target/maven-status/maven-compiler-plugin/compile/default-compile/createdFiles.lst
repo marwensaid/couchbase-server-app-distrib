@@ -1,0 +1,7 @@
+pg306/utils/DBResult.class
+pg306/utils/CreateSampleDocuments.class
+pg306/utils/DataValue.class
+pg306/utils/DBDocument.class
+pg306/client/App.class
+pg306/client/MonitorTask.class
+pg306/utils/DBConnexion.class
